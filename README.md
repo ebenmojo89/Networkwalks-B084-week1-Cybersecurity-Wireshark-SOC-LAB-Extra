@@ -140,7 +140,7 @@ Finding who is guessing passwords.
 
 Finding the call and playing it back to learn what was said.
 
-![]()
+![](6-screenshot-VoIP-Call.png)
 
 ## Investigation Summary
 
