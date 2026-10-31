@@ -1,4 +1,4 @@
-# Networkwalks-B084-week1-Cybersecurity-Extra
+# Networkwalks-B084-week1-Cybersecurity-Wireshark-SOC-Lab-Extra
 Wireshark analysis 
 
 <div align="center">
