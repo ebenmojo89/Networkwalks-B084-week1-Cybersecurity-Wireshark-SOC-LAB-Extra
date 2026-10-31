@@ -65,7 +65,7 @@ Furthermore, the lab aims to strengthen practical knowledge of network protocols
 
 Finding the type of attack and the attacker's IP address.
 
-![]()
+![](1-screenshot-ID-Attk-IP.png)
 
 ## Investigation Summary
 
@@ -134,7 +134,7 @@ Finding who is guessing passwords.
 - Worked:        admin / Sunshine99 (code 230)
 - Attack type:   Brute Force
 
-===
+---
 
 ## 6 Catch the Call Scammer
 
