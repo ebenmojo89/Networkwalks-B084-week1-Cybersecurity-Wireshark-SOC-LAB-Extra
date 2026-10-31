@@ -80,7 +80,7 @@ Finding the type of attack and the attacker's IP address.
 
 Following TCP Stream to read a chat.
 
-![]()
+![](2-screenshot-TCP-Stream1.png)
 
 ## Investigation Summary
 
