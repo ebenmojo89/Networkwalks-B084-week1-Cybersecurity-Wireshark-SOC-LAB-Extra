@@ -94,7 +94,7 @@ Following TCP Stream to read a chat.
 
 Following TCP Stream to find a hidden text.
 
-![]()
+![](3-screenshot-TCP-Stream2.png)
 
 ## Investigation Summary
 
@@ -109,7 +109,7 @@ Following TCP Stream to find a hidden text.
 
 Finding what can be read from a sign-in that is not encrypted.
 
-![]()
+![](4-screenshot-HTTP-Credentials.png)
 
 ## Investigation Summary
 
@@ -124,7 +124,7 @@ Finding what can be read from a sign-in that is not encrypted.
 
 Finding who is guessing passwords. 
 
-![]()
+![](5-screenshot-Brute-Force-Attk.png)
 
 ## Investigation Summary
 
