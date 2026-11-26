@@ -65,7 +65,7 @@ Furthermore, the lab aims to strengthen practical knowledge of network protocols
 
 Finding the type of attack and the attacker's IP address.
 
-![](1-screenshot-ID-Attk-IP.png)
+![](Screenshots/1-screenshot-ID-Attk-IP.png)
 
 ## Investigation Summary
 
@@ -80,7 +80,7 @@ Finding the type of attack and the attacker's IP address.
 
 Following TCP Stream to read a chat.
 
-![](2-screenshot-TCP-Stream1.png)
+![](Screenshots/2-screenshot-TCP-Stream1.png)
 
 ## Investigation Summary
 
@@ -94,7 +94,7 @@ Following TCP Stream to read a chat.
 
 Following TCP Stream to find a hidden text.
 
-![](3-screenshot-TCP-Stream2.png)
+![](Screenshots/3-screenshot-TCP-Stream2.png)
 
 ## Investigation Summary
 
@@ -109,7 +109,7 @@ Following TCP Stream to find a hidden text.
 
 Finding what can be read from a sign-in that is not encrypted.
 
-![](4-screenshot-HTTP-Credentials.png)
+![](Screenshots/4-screenshot-HTTP-Credentials.png)
 
 ## Investigation Summary
 
@@ -124,7 +124,7 @@ Finding what can be read from a sign-in that is not encrypted.
 
 Finding who is guessing passwords. 
 
-![](5-screenshot-Brute-Force-Attk.png)
+![](Screenshots/5-screenshot-Brute-Force-Attk.png)
 
 ## Investigation Summary
 
@@ -140,7 +140,7 @@ Finding who is guessing passwords.
 
 Finding the call and playing it back to learn what was said.
 
-![](6-screenshot-VoIP-Call.png)
+![](Screenshots/6-screenshot-VoIP-Call.png)
 
 ## Investigation Summary
 
